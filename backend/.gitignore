@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Environment variable files
+.env*  # Matches all environment variable files (e.g., .env, .env.development, etc.)
+
+# Logs
+*.log
+
+# Runtime data
+pids*.pid  # Matches all PID files (e.g., server.pid)
+*.seed     # Matches any seed files used for randomness
+
+# Testing coverage reports
+coverage/*
+
+# IDE-specific cache or temporary files
+.idea/  # Common for JetBrains IDEs
+.vscode/  # Common for Visual Studio Code
+
+# Build artifacts (adjust based on your build tools)
+build/  # Example for a generic build directory
+
+# Specific Node.js Express patterns
+# (Consider adding these if applicable)
+# - Compiled view templates (e.g., Pug, EJS)
+# - Compiled TypeScript or JavaScript files
+
+# Other potential exclusions (add as needed)
+# - Specific test runner output directories
+# - Editor plugins' cache directories
